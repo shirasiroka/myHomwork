@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\mishloach_manot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mishloach_manot.cpp",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
+              "RelativeDocumentMoniker": "mishloach_manot\\mishloach_manot.cpp",
+              "ToolTip": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
+              "RelativeToolTip": "mishloach_manot\\mishloach_manot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T16:22:41.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
