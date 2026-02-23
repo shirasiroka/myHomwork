@@ -2,24 +2,27 @@
 #include<iostream>
 #include <string>
 using namespace std;
+enum Kashrut
+{
+	badats,
+	rubin,
+	lando
+};
 class Product
 {
 	string productName;
 	double price;
 	int amount;
 public:
-	enum Kashrut
-	{
-		badats,
-		rubin,
-		lando
-	};
+	
 	Kashrut KashrutType;
 	Product();
 	Product(string, double, int, Kashrut);
+	double GetPrice();
+	Kashrut GetKashrut();
 	double Sum();
 	void Print();
-
+	 
 
 };
 

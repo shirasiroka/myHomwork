@@ -9,12 +9,18 @@ Product::Product()
 	KashrutType = badats;
 }
 
-Product::Product(string pname, double p, int a,Kashrut k)
+Product::Product(string pname, double p, int a,Kashrut k):productName(pname), price(p), amount(a), KashrutType(k)
 {
-	productName = pname;
-	price = p;
-	amount = a;
-	KashrutType = k;
+}
+
+double Product::GetPrice()
+{
+	return price;
+}
+
+Kashrut Product::GetKashrut()
+{
+	return KashrutType;
 }
 
 double Product::Sum()

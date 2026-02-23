@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\",
+  "WorkspaceRootPath": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\mishloach_manot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EE8EB2-2B3C-4C64-A3BB-97207DE0228A}|mishloach_manot\\mishloach_manot.vcxproj|solutionrelative:mishloach_manot\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cpp",
+              "DocumentMoniker": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.cpp",
+              "RelativeDocumentMoniker": "mishloach_manot\\Address.cpp",
+              "ToolTip": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.cpp",
+              "RelativeToolTip": "mishloach_manot\\Address.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T16:47:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.h",
+              "DocumentMoniker": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.h",
+              "RelativeDocumentMoniker": "mishloach_manot\\Address.h",
+              "ToolTip": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Address.h",
+              "RelativeToolTip": "mishloach_manot\\Address.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-22T16:43:31.669Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.cpp",
+              "RelativeDocumentMoniker": "mishloach_manot\\Product.cpp",
+              "ToolTip": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.cpp",
+              "RelativeToolTip": "mishloach_manot\\Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T16:29:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.h",
+              "DocumentMoniker": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.h",
+              "RelativeDocumentMoniker": "mishloach_manot\\Product.h",
+              "ToolTip": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\Product.h",
+              "RelativeToolTip": "mishloach_manot\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-22T16:23:44.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "mishloach_manot.cpp",
-              "DocumentMoniker": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
+              "DocumentMoniker": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
               "RelativeDocumentMoniker": "mishloach_manot\\mishloach_manot.cpp",
-              "ToolTip": "C:\\Users\\1\\Documents\\\u05D9\u0027\u05D3\\c\u002B\u002B\\\u05D4\u05D2\u05E9\u05EA \u05E9.\u05D1\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
+              "ToolTip": "T:\\\u05D9\u05D3\\\u05D1\u05D9\u05E0\u05D4\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05DE\u05E9\u05DC\u05D5\u05D7 \u05DE\u05E0\u05D5\u05EA\\myHomwork\\mishloach_manot\\mishloach_manot\\mishloach_manot.cpp",
               "RelativeToolTip": "mishloach_manot\\mishloach_manot.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-22T16:22:41.401Z",
               "EditorCaption": ""
